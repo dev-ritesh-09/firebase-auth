@@ -20,7 +20,7 @@ This is a simple login form using Firebase Authentication.
 ## 🔧 Setup Instructions
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/your-repo.git
+ git clone https://github.com/dev-ritesh-09/firebase-auth
  cd your-project-folder
 ```
 
